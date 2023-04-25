@@ -60,8 +60,8 @@ document.addEventListener('DOMContentLoaded', () => {
             clickable: true,
         },
         navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
+            nextEl: ".swiper-button-js-next",
+            prevEl: ".swiper-button-js-prev",
         },
     });
     const swiper4 = new Swiper('.tither__slider', {
@@ -84,8 +84,8 @@ document.addEventListener('DOMContentLoaded', () => {
             clickable: true,
         },
         navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
+            nextEl: ".swiper-button-jsswd-next",
+            prevEl: ".swiper-button-jsswd-prev",
         },
     });
     const swiper5 = new Swiper('.roboxod__slider', {
@@ -113,8 +113,8 @@ document.addEventListener('DOMContentLoaded', () => {
             clickable: true,
         },
         navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
+            nextEl: ".swiper-button-jssw-next",
+            prevEl: ".swiper-button-jssw-prev",
         },
     });
 
